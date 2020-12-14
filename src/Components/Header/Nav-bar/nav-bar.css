@@ -1,0 +1,75 @@
+.nav__links{
+    display: flex;
+    align-items: center;
+}
+
+.nav__links_item_home{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    margin-right: 34px;
+    text-decoration: none;
+    color: #202336;
+    
+}
+
+.nav__links_item_home:hover{
+    color: #616161;
+}
+
+.nav__links_item{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    margin-right: 34px;
+    text-decoration: none;
+    color: #B8BECD;
+
+    
+}
+
+.nav__links_item:hover{
+    color: #616161;;
+}
+
+.nav__links_btn_login{
+    width: 132px;
+    height: 44px;
+    margin-right: 34px;
+    border: 1px solid #FB8F1D;
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: #FB8F1D;
+    background-color: transparent;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 60px;
+    mix-blend-mode: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav__links_btn_register{
+    width: 132px;
+    height: 44px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: none;
+    background-color: #FB8F1D;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 60px;
+    mix-blend-mode: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
