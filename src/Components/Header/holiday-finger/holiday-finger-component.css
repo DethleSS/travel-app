@@ -1,0 +1,96 @@
+.header__text{
+    width: 356px;
+    height: 160px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 80px;
+    color: #202336;
+    mix-blend-mode: normal;
+}
+
+.header__text_item{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    color: #202336;
+}
+
+.drop__btn {
+    width: 220px;
+    height: 52px;
+    background-color: transparent;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 32px;
+    color: #4A4C53;
+    border: 0.8px solid #AFB0B9;
+    box-sizing: border-box;
+    border-radius: 6px;
+  }
+  
+  .drop__down {
+    position: relative;
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 35px;
+  }
+  
+  .drop__down_content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    width: 220px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .drop__down_content a {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 32px;
+    color: #4A4C53;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  .drop__down:hover .drop__down_content {
+    display: block;
+  }
+  
+
+
+
+  .btn__explore{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 180px;
+    height: 52px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: none;
+    background-color: #FB8F1D;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 60px;
+    mix-blend-mode: normal;
+    
+  }
+
+  .btn__explore:hover{
+    background-color: #c46500;
+  }
+
+  .btn__explore:focus{
+      outline: none;
+  }

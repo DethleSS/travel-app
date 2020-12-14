@@ -73,3 +73,15 @@
     align-items: center;
     justify-content: center;
 }
+
+.nav__links_btn_register:hover{
+    background-color: #c46500;
+}
+
+.nav__links_btn_login:hover{
+    color: #c46500;
+}
+
+.nav__links_btn_login:focus, .nav__links_btn_register:focus{
+    outline: none;
+}

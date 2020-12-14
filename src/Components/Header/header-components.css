@@ -1,0 +1,29 @@
+.header{
+    margin-top: 56px;
+    margin-left: 204px;
+}
+
+.top__header{
+    display: flex;
+    align-items: flex-start;
+
+
+}
+
+.content__header{
+    display: flex;
+    flex-flow: row nowrap;
+    margin-top: 92px;
+}
+
+.img__logo{
+    width: 41px;
+    height: 41px;
+    margin-right: 828px;
+}
+
+.img__thousand{
+    width: 687px;
+    height: 654px;
+    margin-left: 230px;
+}
