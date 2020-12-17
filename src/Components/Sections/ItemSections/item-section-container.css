@@ -1,0 +1,45 @@
+.item__element{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+}
+
+.title__items{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 50px;
+    color: #000000;
+    mix-blend-mode: normal;
+    margin-bottom: 56px;
+}
+
+.field__item_element{
+    margin-top: 230px;
+}
+
+.field__header{
+    display: flex;
+    flex-flow: row nowrap;
+}
+
+.btn__view_all{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    color: #FB8F1D;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    mix-blend-mode: normal;
+    margin-left: 900px;
+}
+
+.btn__view_all:hover{
+    color: #c26502;
+}
