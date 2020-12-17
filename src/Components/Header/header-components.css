@@ -1,13 +1,8 @@
-.header{
-    margin-top: 56px;
-    margin-left: 204px;
-}
+
 
 .top__header{
     display: flex;
     align-items: flex-start;
-
-
 }
 
 .content__header{
@@ -27,3 +22,4 @@
     height: 654px;
     margin-left: 230px;
 }
+

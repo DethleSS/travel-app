@@ -1,0 +1,53 @@
+.img__thousand3{
+    width: 687px;
+    height: 654px;
+    margin-left: 230px;
+}
+
+.info__section_second{
+    display: flex;
+    flex-flow: row nowrap;
+    margin-top: 286px;
+}
+
+.header__text_second-section{
+    width: 481px;
+    height: 100px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 50px;
+    color: #000000;
+    mix-blend-mode: normal;
+}
+
+.text__content_second-section{
+    width: 450px;
+    height: 120px;
+    font-family: Mulish;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 30px;
+    color: #7D7987;
+    mix-blend-mode: normal;
+}
+
+.btn__download{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 164px;
+    height: 48px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: none;
+    background-color: #FB8F1D;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 60px;
+    mix-blend-mode: normal;
+}
